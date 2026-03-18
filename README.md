@@ -22,7 +22,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** who loves building scala
 
 ## 🌱 Currently Learning
 
-![NEST.JS](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
 ### ✍️ Random Dev Quote
 
