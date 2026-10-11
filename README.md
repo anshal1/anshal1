@@ -22,7 +22,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** who loves building scala
 
 ## 🌱 Currently Learning
 
-![](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Server Sent Events]
 
 ### ✍️ Random Dev Quote
 
