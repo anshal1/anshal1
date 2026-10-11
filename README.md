@@ -22,7 +22,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** who loves building scala
 
 ## 🌱 Currently Learning
 
-![Server Sent Events]
+### Server Sent Events
 
 ### ✍️ Random Dev Quote
 
